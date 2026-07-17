@@ -1,0 +1,182 @@
+WEBVTT
+
+1
+00:00:01.390 --> 00:00:03.129
+Shiva Kumar Chary Valaboju: Hey, DVR, how are you?
+
+2
+00:00:03.960 --> 00:00:05.600
+Divya Sai Sukanya Indala: Hi, I'm good, how are you?
+
+3
+00:00:06.100 --> 00:00:11.690
+Shiva Kumar Chary Valaboju: Hi, good, so… did you have a look at the Module 3? Did you go on through that?
+
+4
+00:00:11.930 --> 00:00:17.270
+Divya Sai Sukanya Indala: Yeah, yeah, yeah, I did. So, support data visualization, right?
+
+5
+00:00:17.270 --> 00:00:19.820
+Shiva Kumar Chary Valaboju: Yeah, so did you go into the dataset yet?
+
+6
+00:00:20.640 --> 00:00:22.090
+Divya Sai Sukanya Indala: Yeah, I did.
+
+7
+00:00:22.230 --> 00:00:23.230
+Divya Sai Sukanya Indala: I don't know.
+
+8
+00:00:23.340 --> 00:00:27.989
+Divya Sai Sukanya Indala: I just overviewed it, so I just look into some variables.
+
+9
+00:00:30.010 --> 00:00:34.300
+Shiva Kumar Chary Valaboju: So, we do have, like, test train and,
+
+10
+00:00:34.530 --> 00:00:37.369
+Shiva Kumar Chary Valaboju: Two data sets in it, so…
+
+11
+00:00:37.700 --> 00:00:44.279
+Shiva Kumar Chary Valaboju: If you, like, have gone through that, so if you've gone through that, We have,
+
+12
+00:00:45.940 --> 00:00:50.219
+Shiva Kumar Chary Valaboju: 12 columns in the train data set, and
+
+13
+00:00:51.930 --> 00:01:07.300
+Shiva Kumar Chary Valaboju: So like we're going to use the train data set for our modeling for visualization. So I've just gone through that. Then we have like passengers ID survivor. What's the passengers class name of the passenger?
+
+14
+00:01:07.490 --> 00:01:11.180
+Shiva Kumar Chary Valaboju: He's a passenger, male or female, we have, like, 12 colum
+
+15
+00:01:11.860 --> 00:01:15.290
+Shiva Kumar Chary Valaboju: And we have some null values in it.
+
+16
+00:01:16.300 --> 00:01:26.770
+Shiva Kumar Chary Valaboju: So, we have survival count, everything, so… So you're gonna… So, according to our project…
+
+17
+00:01:26.980 --> 00:01:28.470
+Shiva Kumar Chary Valaboju: I think we need to…
+
+18
+00:01:30.470 --> 00:01:35.739
+Shiva Kumar Chary Valaboju: Right, right, once it go through that… So, we need to do the individual coding?
+
+19
+00:01:35.900 --> 00:01:41.479
+Shiva Kumar Chary Valaboju: So we need to do the accurate visualizations and we need to do some misleading visualizations.
+
+20
+00:01:42.390 --> 00:01:45.199
+Shiva Kumar Chary Valaboju: So… what we gonna do?
+
+21
+00:01:45.440 --> 00:01:50.200
+Shiva Kumar Chary Valaboju: So, do we gonna do, like, couple offers? Like, two offers, and… Shall we pay?
+
+22
+00:01:50.200 --> 00:02:01.379
+Divya Sai Sukanya Indala: two of two of bad yeah yeah so two good and two bad each so they are core yeah I also gone through the data set I just also
+
+23
+00:02:02.250 --> 00:02:04.449
+Divya Sai Sukanya Indala: See that wearables, like, yeah…
+
+24
+00:02:05.080 --> 00:02:11.730
+Divya Sai Sukanya Indala: A fare aid survival of the passengers, and it contains 891 passengers in the data set.
+
+25
+00:02:12.410 --> 00:02:18.710
+Divya Sai Sukanya Indala: So, I can't do the same. So, yeah, let's do a two each, two good and two bad. Okay.
+
+26
+00:02:19.090 --> 00:02:19.999
+Shiva Kumar Chary Valaboju: So, you want to create.
+
+27
+00:02:20.000 --> 00:02:20.939
+Divya Sai Sukanya Indala: Then we can pick up.
+
+28
+00:02:20.940 --> 00:02:25.530
+Shiva Kumar Chary Valaboju: You wanna create a GitHub repo or something, or do you want me to create?
+
+29
+00:02:26.170 --> 00:02:28.680
+Divya Sai Sukanya Indala: You can do it, no problem. Anything is fine.
+
+30
+00:02:28.680 --> 00:02:35.289
+Shiva Kumar Chary Valaboju: So, by the end of the day, I'll create the GitHub repo and send you the invitation link, and I'll also create the Google Doc.
+
+31
+00:02:35.890 --> 00:02:36.750
+Divya Sai Sukanya Indala: Okay.
+
+32
+00:02:37.130 --> 00:02:44.099
+Shiva Kumar Chary Valaboju: So, make sure from, by the next week, like, from the next meeting, do your, do your coding.
+
+33
+00:02:44.420 --> 00:02:46.659
+Shiva Kumar Chary Valaboju: Yeah. So we can have a discussion about it. Yeah.
+
+34
+00:02:46.940 --> 00:02:56.719
+Divya Sai Sukanya Indala: Yeah, yeah. So, we can do two each, two good and two bad, and also we're gonna select one good and one bad, or two good and two bad.
+
+35
+00:02:57.970 --> 00:03:02.719
+Shiva Kumar Chary Valaboju: Yeah, we'll figure it out once we… we have next week meeting. Okay.
+
+36
+00:03:03.200 --> 00:03:04.640
+Divya Sai Sukanya Indala: Okay. Okay.
+
+37
+00:03:04.640 --> 00:03:06.250
+Shiva Kumar Chary Valaboju: Yeah, so we'll do…
+
+38
+00:03:07.010 --> 00:03:12.199
+Shiva Kumar Chary Valaboju: Too good, too bad, and we'll figure out which one is good and bad, we will write them.
+
+39
+00:03:13.190 --> 00:03:13.950
+Divya Sai Sukanya Indala: Okay, thank you.
+
+40
+00:03:17.650 --> 00:03:20.420
+Shiva Kumar Chary Valaboju: So then, that's it for today, right?
+
+41
+00:03:20.860 --> 00:03:26.590
+Divya Sai Sukanya Indala: I think so, yes. So, okay, let's do our querying process, then we can meet again.
+
+42
+00:03:26.870 --> 00:03:28.610
+Shiva Kumar Chary Valaboju: Yeah, sure. Okay then, Livia.
+
+43
+00:03:28.610 --> 00:03:29.970
+Divya Sai Sukanya Indala: Okay, yeah.
+
+44
+00:03:30.370 --> 00:03:30.710
+Shiva Kumar Chary Valaboju: Bye.
+
+45
+00:03:30.710 --> 00:03:31.959
+Divya Sai Sukanya Indala: No, good night.
+
