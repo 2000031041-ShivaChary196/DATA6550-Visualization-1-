@@ -1,0 +1,426 @@
+WEBVTT
+
+1
+00:00:01.730 --> 00:00:03.640
+Shiva Kumar Chary Valaboju: Hey, Divya, how are you?
+
+2
+00:00:04.040 --> 00:00:05.910
+Divya Sai Sukanya Indala: Hi, how are you?
+
+3
+00:00:06.060 --> 00:00:09.580
+Shiva Kumar Chary Valaboju: Hey there, good. So, did you walk down the code?
+
+4
+00:00:10.050 --> 00:00:11.680
+Divya Sai Sukanya Indala: Yeah, yeah, I did. You?
+
+5
+00:00:12.090 --> 00:00:12.980
+Shiva Kumar Chary Valaboju: Yeah, also.
+
+6
+00:00:12.980 --> 00:00:17.850
+Divya Sai Sukanya Indala: Yeah, and also uploaded in GitHub, so did you go through it?
+
+7
+00:00:17.850 --> 00:00:19.939
+Shiva Kumar Chary Valaboju: Yeah, I have gone through that, so…
+
+8
+00:00:21.120 --> 00:00:23.840
+Shiva Kumar Chary Valaboju: Are you gonna start with what you have done?
+
+9
+00:00:24.260 --> 00:00:39.940
+Divya Sai Sukanya Indala: Oh, yes. So I did two good visualization and two bad visualization. In good visualization, I done survival rate by gender, and another one is passenger class, survival by passenger class.
+
+10
+00:00:39.940 --> 00:00:52.209
+Divya Sai Sukanya Indala: In misleading visualization, I've done a tonicated y-axis. I've just tonicated the y-axis as a bad visualization. And second visualization, I cherry-picked the data.
+
+11
+00:00:52.790 --> 00:00:56.089
+Divya Sai Sukanya Indala: I did two, I mean, two each analysis of it.
+
+12
+00:00:56.710 --> 00:01:02.590
+Divya Sai Sukanya Indala: The results I got is… It's just again.
+
+13
+00:01:04.330 --> 00:01:09.649
+Divya Sai Sukanya Indala: Okay, so I got, in survival by gender, it's like…
+
+14
+00:01:10.060 --> 00:01:17.200
+Divya Sai Sukanya Indala: it's so accurate that female passengers are survivor most than the male passengers in it.
+
+15
+00:01:18.670 --> 00:01:24.190
+Divya Sai Sukanya Indala: So, in passenger class, the first class, who… who are, what's up?
+
+16
+00:01:24.190 --> 00:01:47.240
+Divya Sai Sukanya Indala: Traveling in a first class, those survival rates are good by passenger class. I got those results for the good visualization. And in misleading visualization, I terminated the y-axis. So usually it has to start with 0 axis, right, 02, but I just terminated into 0.30 on y-axis.
+
+17
+00:01:47.240 --> 00:01:59.979
+Divya Sai Sukanya Indala: So I just misleaded the values. So it got an inaccurate results, like it's not true values of it. And as a second visualization and I showed you pick the data like.
+
+18
+00:02:00.050 --> 00:02:05.050
+Divya Sai Sukanya Indala: I just only, selected only two, two ports, like,
+
+19
+00:02:05.380 --> 00:02:16.560
+Divya Sai Sukanya Indala: the travelers with the selected ports. I just survival rate by selected port. So, for that, I got some… Southampton has, lowest survival rates.
+
+20
+00:02:18.470 --> 00:02:20.799
+Divya Sai Sukanya Indala: And I didn't add the top.
+
+21
+00:02:21.530 --> 00:02:33.319
+Divya Sai Sukanya Indala: another port in here, so that's why I just got the Cherbug port, so that's why I just got the Southampton is the lowest survival rate as a Cherry Peck data, so these results I got.
+
+22
+00:02:33.810 --> 00:02:36.770
+Divya Sai Sukanya Indala: Yeah, did you go and try it? All my results, is it good?
+
+23
+00:02:37.260 --> 00:02:44.109
+Shiva Kumar Chary Valaboju: Yeah, those looks good, and fortunately, I have also done those, so…
+
+24
+00:02:44.260 --> 00:02:47.560
+Shiva Kumar Chary Valaboju: I have also done the survival rate by gender.
+
+25
+00:02:48.290 --> 00:02:51.379
+Shiva Kumar Chary Valaboju: Graph, survival rate by passengers, class…
+
+26
+00:02:51.540 --> 00:02:53.780
+Shiva Kumar Chary Valaboju: So, like, it looks similar, but…
+
+27
+00:02:53.980 --> 00:02:59.329
+Shiva Kumar Chary Valaboju: I have done some analysis on the dataset first, so… When it comes to…
+
+28
+00:02:59.560 --> 00:03:04.720
+Shiva Kumar Chary Valaboju: Like, initial code, I have gone through the test data and train data.
+
+29
+00:03:05.050 --> 00:03:16.209
+Shiva Kumar Chary Valaboju: So I have just, looked into, the dataset, and I have done some analysis, like, doing the null… removing all the null values.
+
+30
+00:03:16.680 --> 00:03:24.430
+Shiva Kumar Chary Valaboju: So, like, if you have gone through that, we have, like, 687 null values in cabin column and 177.
+
+31
+00:03:24.680 --> 00:03:31.160
+Shiva Kumar Chary Valaboju: null values in the age column, and some 2 in the embarked column, so I have removed all of them.
+
+32
+00:03:31.920 --> 00:03:38.399
+Shiva Kumar Chary Valaboju: And I've done some… ED analysis, so… After that, I have…
+
+33
+00:03:38.580 --> 00:03:44.040
+Shiva Kumar Chary Valaboju: Check how many survivals, rate is…
+
+34
+00:03:44.720 --> 00:03:48.950
+Shiva Kumar Chary Valaboju: Happening throughout the gender and throughout the passenger's class.
+
+35
+00:03:49.060 --> 00:03:50.579
+Shiva Kumar Chary Valaboju: I have done the…
+
+36
+00:03:51.040 --> 00:03:57.650
+Shiva Kumar Chary Valaboju: value analysis after that. I took those values and I have created the graphs, which look similar, but,
+
+37
+00:03:58.190 --> 00:04:06.149
+Shiva Kumar Chary Valaboju: Some similar, so, as you said, female passengers' survival rate was more than male.
+
+38
+00:04:06.480 --> 00:04:07.170
+Shiva Kumar Chary Valaboju: And…
+
+39
+00:04:07.170 --> 00:04:07.520
+Divya Sai Sukanya Indala: Yes.
+
+40
+00:04:07.520 --> 00:04:13.519
+Shiva Kumar Chary Valaboju: The first class people are survivor more than the second class and third class.
+
+41
+00:04:13.900 --> 00:04:22.779
+Shiva Kumar Chary Valaboju: people, so… I have also, changed the values, like, I have made… I made them…
+
+42
+00:04:22.940 --> 00:04:30.689
+Shiva Kumar Chary Valaboju: male people more or less than the visual, like, misleading them, and I have done…
+
+43
+00:04:32.920 --> 00:04:37.300
+Shiva Kumar Chary Valaboju: My my making a third class first class values.
+
+44
+00:04:37.450 --> 00:04:38.940
+Shiva Kumar Chary Valaboju: Survival rate.
+
+45
+00:04:39.480 --> 00:04:40.620
+Shiva Kumar Chary Valaboju: Up and down.
+
+46
+00:04:40.800 --> 00:04:45.369
+Shiva Kumar Chary Valaboju: Then, the third one is, like, I have also done the cherry picking value.
+
+47
+00:04:45.810 --> 00:04:50.700
+Shiva Kumar Chary Valaboju: So, for the first class and third class… Seeing that, you know.
+
+48
+00:04:50.800 --> 00:04:54.309
+Shiva Kumar Chary Valaboju: These classes only have, like, survival rate.
+
+49
+00:04:54.590 --> 00:04:58.590
+Shiva Kumar Chary Valaboju: And I have done like a pie chart saying.
+
+50
+00:04:59.300 --> 00:05:03.320
+Shiva Kumar Chary Valaboju: these kind of genders are survival.
+
+51
+00:05:04.420 --> 00:05:10.610
+Shiva Kumar Chary Valaboju: So, after that, I have done some, comparison graphs.
+
+52
+00:05:11.040 --> 00:05:14.650
+Shiva Kumar Chary Valaboju: For the misleading and the actual graph, so.
+
+53
+00:05:15.020 --> 00:05:19.040
+Shiva Kumar Chary Valaboju: We can have a look, what… I have done
+
+54
+00:05:20.030 --> 00:05:24.250
+Shiva Kumar Chary Valaboju: From the actual graphs and the misleading graphs, so…
+
+55
+00:05:24.820 --> 00:05:27.970
+Shiva Kumar Chary Valaboju: Yeah, those are all… I have gone through that.
+
+56
+00:05:29.650 --> 00:05:35.510
+Shiva Kumar Chary Valaboju: So, yeah, we need to do our final report then, so… Yeah. What can you say.
+
+57
+00:05:35.510 --> 00:05:36.330
+Divya Sai Sukanya Indala: Okay.
+
+58
+00:05:36.450 --> 00:05:43.460
+Divya Sai Sukanya Indala: Yeah, yours is looking good, so, what do we do now, like, for the report, like,
+
+59
+00:05:43.730 --> 00:05:50.219
+Divya Sai Sukanya Indala: Are we gonna select one good visualization from your analysis, and one is mine, like that?
+
+60
+00:05:50.780 --> 00:05:57.739
+Shiva Kumar Chary Valaboju: Yeah, so initially, we'll write an introduction section and dataset overview section.
+
+61
+00:05:57.990 --> 00:06:04.210
+Shiva Kumar Chary Valaboju: And the third section will be accurate graphs, and the fourth section will be the misleading graphs.
+
+62
+00:06:04.590 --> 00:06:08.369
+Shiva Kumar Chary Valaboju: So, we're gonna give, like, the, what the,
+
+63
+00:06:09.020 --> 00:06:13.800
+Shiva Kumar Chary Valaboju: What we are trying to do in the fifth section and the sixth section will be conclusion, so…
+
+64
+00:06:14.600 --> 00:06:14.930
+Divya Sai Sukanya Indala: Yes.
+
+65
+00:06:14.930 --> 00:06:24.450
+Shiva Kumar Chary Valaboju: First, two graphs, we're gonna keep one graph of mine, and a second graph of yours, because we have done, like, similar coding analysis, so…
+
+66
+00:06:24.890 --> 00:06:25.939
+Shiva Kumar Chary Valaboju: Are we gonna do that?
+
+67
+00:06:25.940 --> 00:06:27.910
+Divya Sai Sukanya Indala: Yeah, let's do that Yeah, so…
+
+68
+00:06:28.070 --> 00:06:33.069
+Shiva Kumar Chary Valaboju: One of my… one graph from the actual, and the one graph from yours, actual.
+
+69
+00:06:33.740 --> 00:06:36.760
+Shiva Kumar Chary Valaboju: And the one graph from the misleading one graph.
+
+70
+00:06:36.760 --> 00:06:37.190
+Divya Sai Sukanya Indala: Are you?
+
+71
+00:06:37.190 --> 00:06:41.639
+Shiva Kumar Chary Valaboju: misleading to yours, so we can keep, like, 4 graphs. So, is that it?
+
+72
+00:06:41.640 --> 00:06:42.490
+Divya Sai Sukanya Indala: Yes, yes.
+
+73
+00:06:43.500 --> 00:06:44.590
+Divya Sai Sukanya Indala: Okay.
+
+74
+00:06:44.920 --> 00:06:56.629
+Divya Sai Sukanya Indala: So what graphs you're going to select from your analysis? From mine, for good visualization, I'll select gender, survive by gender.
+
+75
+00:06:56.860 --> 00:06:58.250
+Divya Sai Sukanya Indala: So, because…
+
+76
+00:06:58.380 --> 00:07:14.429
+Divya Sai Sukanya Indala: I chose it because it combines two categories very clearly, like male and female, and also the axis starts with zero. And I manage the labels, legend, and colors to make it easy and interpretable.
+
+77
+00:07:14.550 --> 00:07:32.250
+Divya Sai Sukanya Indala: to see the results in there. So that's why I just selected good visualization of survival by gender. So for bad misleading visualization, I chose the tonicator y-axis because the data itself is incorrect here.
+
+78
+00:07:32.440 --> 00:07:53.889
+Divya Sai Sukanya Indala: Because I just duncated the y-axis into the 0.30 itself, so it has to start with zero. So the visualization technique is misleading in there. So that's why I'll choose the duncated y-axis as a bad visualization. So you can say one of your good and bad, so we can keep it in our report.
+
+79
+00:07:55.980 --> 00:08:03.609
+Shiva Kumar Chary Valaboju: Yeah, so… I'm gonna keep, like, the… P-class… Survival rate by passengers class?
+
+80
+00:08:03.820 --> 00:08:04.740
+Divya Sai Sukanya Indala: Okay.
+
+81
+00:08:04.950 --> 00:08:12.979
+Shiva Kumar Chary Valaboju: And the next one will be selecting particular data, like survival rate by selected boats. The misleading one. Yeah.
+
+82
+00:08:12.980 --> 00:08:18.589
+Divya Sai Sukanya Indala: Okay. Yeah, okay, different ones. And also, we can,
+
+83
+00:08:18.910 --> 00:08:25.799
+Divya Sai Sukanya Indala: add also two more graphs, the comparison graphs from your report. I liked it personally, so you can just add it. Is it okay?
+
+84
+00:08:25.800 --> 00:08:29.210
+Shiva Kumar Chary Valaboju: Yeah, yeah, so it's gonna be, like, total 6 grabs.
+
+85
+00:08:29.210 --> 00:08:31.989
+Divya Sai Sukanya Indala: Yeah, total. Yeah, yeah, total 6 graphs.
+
+86
+00:08:31.990 --> 00:08:33.490
+Shiva Kumar Chary Valaboju: Yeah, sure, sure, okay.
+
+87
+00:08:33.730 --> 00:08:34.620
+Divya Sai Sukanya Indala: Okay.
+
+88
+00:08:35.890 --> 00:08:40.269
+Shiva Kumar Chary Valaboju: Yeah, so, I will work on the final report, and…
+
+89
+00:08:40.270 --> 00:08:41.150
+Divya Sai Sukanya Indala: Yeah, okay.
+
+90
+00:08:41.159 --> 00:08:41.839
+Shiva Kumar Chary Valaboju: I will…
+
+91
+00:08:41.980 --> 00:08:43.260
+Divya Sai Sukanya Indala: Okay, I'll…
+
+92
+00:08:43.500 --> 00:08:49.710
+Divya Sai Sukanya Indala: Yeah, I will report… I'll write the report, so if, you can edit the graphs and something, is that okay?
+
+93
+00:08:49.710 --> 00:08:50.700
+Shiva Kumar Chary Valaboju: Yeah, sure, okay.
+
+94
+00:08:50.700 --> 00:08:51.890
+Divya Sai Sukanya Indala: Yeah, okay.
+
+95
+00:08:52.590 --> 00:08:59.010
+Shiva Kumar Chary Valaboju: Yeah, so I will be… so have a look at the Google Doc, so I will modify it, and I'll…
+
+96
+00:08:59.380 --> 00:09:02.269
+Shiva Kumar Chary Valaboju: So we're gonna upload it by end of the day. Okay.
+
+97
+00:09:02.550 --> 00:09:03.419
+Divya Sai Sukanya Indala: Yeah, okay.
+
+98
+00:09:04.140 --> 00:09:05.790
+Shiva Kumar Chary Valaboju: Yeah, so that's it, right?
+
+99
+00:09:06.090 --> 00:09:06.790
+Divya Sai Sukanya Indala: Yes.
+
+100
+00:09:07.630 --> 00:09:08.400
+Divya Sai Sukanya Indala: Okay, then.
+
+101
+00:09:08.510 --> 00:09:09.450
+Shiva Kumar Chary Valaboju: So he's a…
+
+102
+00:09:09.450 --> 00:09:15.509
+Divya Sai Sukanya Indala: After you come… after I complete the report, the writing part, then I'll let you know, then you can edit the batches, okay?
+
+103
+00:09:15.510 --> 00:09:17.520
+Shiva Kumar Chary Valaboju: Yeah, sure, sure, Divya. Okay.
+
+104
+00:09:17.520 --> 00:09:18.980
+Divya Sai Sukanya Indala: Yeah, okay, right?
+
+105
+00:09:19.100 --> 00:09:20.709
+Shiva Kumar Chary Valaboju: Right. Okay. Have a good night.
+
+106
+00:09:21.210 --> 00:09:22.040
+Divya Sai Sukanya Indala: You too.
+
